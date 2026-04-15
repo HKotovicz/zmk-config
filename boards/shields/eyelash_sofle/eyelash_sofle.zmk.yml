@@ -3,7 +3,7 @@ id: eyelash_sofle
 name: Eyelash Sofle
 url: https://github.com/carlosedp/zmk-sofle
 type: shield
-requires: [nice_nano//zmk]
+requires: [nice_nano_v2]
 features:
   - keys
   - display
